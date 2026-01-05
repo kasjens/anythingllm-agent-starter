@@ -52,12 +52,14 @@ The script will:
 
 1. Create a new workspace: **"+ New Workspace"**
 2. Name it "My First Agent"
-3. Click the gear icon → **Chat Settings**
-4. Open `ai-agent-blueprints/agents/core/default-agent.md`
-5. Copy the **System Prompt** section
-6. Paste into the System Prompt field
-7. Save settings
-8. Start chatting!
+3. Click the **gear icon** next to "My First Agent" (in left sidebar)
+4. Click the **Chat Settings** tab (at top of settings)
+5. Scroll down to find the **Prompt** field
+6. Open `ai-agent-blueprints/agents/core/default-agent.md`
+7. Copy the **System Prompt** section
+8. Paste into the Prompt field
+9. Click **Update workspace** at the bottom
+10. Start chatting!
 
 **Example:**
 ```

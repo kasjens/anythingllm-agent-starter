@@ -82,11 +82,12 @@ Copy everything inside the code block.
    - Name it based on the agent (e.g., "Code Reviewer")
 
 2. **Open Workspace Settings**:
-   - Click the gear icon in the workspace
-   - Go to **Chat Settings**
+   - Click the **gear icon** next to your workspace name (in the left sidebar)
+   - You'll see 3 tabs at the top: General Settings, Chat Settings, Vector Database
+   - Click on the **Chat Settings** tab
 
 3. **Set System Prompt**:
-   - Find the **System Prompt** field
+   - Scroll down to find the **Prompt** field (this is your system prompt)
    - Paste the blueprint content
    - Replace template variables:
 

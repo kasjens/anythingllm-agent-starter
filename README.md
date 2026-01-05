@@ -54,6 +54,8 @@ See [Agent Integration Guide](#agent-integration) for usage instructions.
 6. [Examples](#examples)
 7. [Troubleshooting](#troubleshooting)
 
+**New to AnythingLLM?** Check out the [UI Navigation Guide](docs/ui-navigation-guide.md) to find all settings locations.
+
 ---
 
 ## Installation
@@ -209,8 +211,10 @@ This section shows how to use agent blueprints from [ai-agent-blueprints](https:
 3. Copy the **System Prompt** section
 
 4. In AnythingLLM:
-   - Go to **Workspace Settings** → **Chat Settings**
-   - Paste the system prompt in **System Prompt** field
+   - Click the **gear icon** next to your workspace name (in left sidebar)
+   - Go to **Chat Settings** tab (top of settings page)
+   - Scroll down to the **Prompt** field
+   - Paste the system prompt
    - Replace template variables:
      - `{{CURRENT_DATE}}` → Current date
      - `{{WORKING_DIR}}` → Your working directory
